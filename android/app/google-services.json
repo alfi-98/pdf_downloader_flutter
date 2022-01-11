@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "117834350067",
+    "project_id": "pdf-file-1666e",
+    "storage_bucket": "pdf-file-1666e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117834350067:android:bd145c3b93c1394bf12686",
+        "android_client_info": {
+          "package_name": "com.practice_folder.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117834350067-j629vl6i55p7hcpbrhu7genkkokuclea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkVWMnQ6YbhgzkKMqgqSalHSia8GMMjTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117834350067-j629vl6i55p7hcpbrhu7genkkokuclea.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "117834350067-i5va742kv97ui56n0lo79ct7v0o6ctjp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.practiceFolder.example"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
