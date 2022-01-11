@@ -1,6 +1,12 @@
 # practice_folder
 
-A new Flutter project.
+A new Flutter project where user can download pdf files and store them in their mobile storage.
+
+
+
+https://user-images.githubusercontent.com/66726759/148940878-38484943-1377-41a7-951a-2bc007b315c6.mov
+
+
 
 ## Getting Started
 
